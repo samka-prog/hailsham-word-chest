@@ -1,0 +1,352 @@
+[
+  {
+    "t": "face like thunder",
+    "c": "idiom",
+    "f": 3,
+    "d": "An extremely angry facial expression.",
+    "s": "He stormed out of the meeting with ___ after hearing the news."
+  },
+  {
+    "t": "call it quits",
+    "c": "idiom",
+    "f": 5,
+    "d": "To agree to stop doing something, often ending a relationship or effort.",
+    "s": "After the third failed attempt, they decided to ___ ."
+  },
+  {
+    "t": "have your work cut out",
+    "c": "idiom",
+    "f": 5,
+    "d": "To face a task that will be very difficult to complete.",
+    "s": "Renovating the whole house by winter means she'll ___ ."
+  },
+  {
+    "t": "raring to go",
+    "c": "idiom",
+    "f": 4,
+    "d": "Extremely eager and ready to start something.",
+    "s": "By the morning of the trip, the kids were already ___ ."
+  },
+  {
+    "t": "leave someone in the lurch",
+    "c": "idiom",
+    "f": 4,
+    "d": "To abandon someone in a difficult situation without help.",
+    "s": "He cancelled at the last minute, which meant he'd ___ ."
+  },
+  {
+    "t": "feel like a spare part",
+    "c": "idiom",
+    "f": 2,
+    "d": "To feel unwanted or unnecessary in a situation.",
+    "s": "Standing alone at the party, he began to ___ ."
+  },
+  {
+    "t": "go out of one's way",
+    "c": "idiom",
+    "f": 5,
+    "d": "To make a special effort to do something for someone.",
+    "s": "Our neighbours always ___ to help us when we're away."
+  },
+  {
+    "t": "take the bait",
+    "c": "idiom",
+    "f": 4,
+    "d": "To respond to a provocation or temptation exactly as intended.",
+    "s": "He tried to provoke her with insults, but she refused to ___ ."
+  },
+  {
+    "t": "about to blow",
+    "c": "idiom",
+    "f": 3,
+    "d": "On the verge of losing one's temper.",
+    "s": "His fists were clenched and for a moment it looked like he was ___ ."
+  },
+  {
+    "t": "make a big deal of something",
+    "c": "idiom",
+    "f": 5,
+    "d": "To treat something as more important or dramatic than necessary.",
+    "s": "It was a small mistake, so there's no need to ___ ."
+  },
+  {
+    "t": "crawling with",
+    "c": "idiom",
+    "f": 4,
+    "d": "Full of a large number of people or things.",
+    "s": "By midday the beach was ___ tourists."
+  },
+  {
+    "t": "in awe of",
+    "c": "idiom",
+    "f": 5,
+    "d": "Feeling great respect or admiration mixed with a little fear.",
+    "s": "The young engineer was clearly ___ her mentor's reputation."
+  },
+  {
+    "t": "give someone the creeps",
+    "c": "idiom",
+    "f": 5,
+    "d": "To make someone feel uneasy or frightened.",
+    "s": "That abandoned house at the end of the street really ___ ."
+  },
+  {
+    "t": "keep something afloat",
+    "c": "idiom",
+    "f": 4,
+    "d": "To keep something, such as a business or plan, functioning despite difficulties.",
+    "s": "The small loan was just enough to ___ the company through winter."
+  },
+  {
+    "t": "want out",
+    "c": "idiom",
+    "f": 3,
+    "d": "To want to leave or escape an uncomfortable situation.",
+    "s": "Halfway through the meeting, it was obvious he just ___ ."
+  },
+  {
+    "t": "work yourself into a state",
+    "c": "idiom",
+    "f": 3,
+    "d": "To become increasingly anxious or upset over something.",
+    "s": "There's no need to ___ over one small mistake."
+  },
+  {
+    "t": "scrawled",
+    "c": "verb",
+    "f": 4,
+    "d": "Wrote something quickly and messily.",
+    "s": "She ___ a quick note and left it on the fridge."
+  },
+  {
+    "t": "gouged",
+    "c": "verb",
+    "f": 3,
+    "d": "Cut or dug into a surface roughly.",
+    "s": "The falling branch ___ a deep mark into the car's roof."
+  },
+  {
+    "t": "larking about",
+    "c": "verb",
+    "f": 2,
+    "d": "Behaving in a playful, mischievous way.",
+    "s": "The boys were ___ in the corridor when the teacher appeared."
+  },
+  {
+    "t": "stalked off",
+    "c": "verb",
+    "f": 3,
+    "d": "Walked away angrily and stiffly.",
+    "s": "Furious at the accusation, she ___ without another word."
+  },
+  {
+    "t": "marched off",
+    "c": "verb",
+    "f": 3,
+    "d": "Walked away quickly and purposefully, often in anger or determination.",
+    "s": "He ___ towards the office to demand an explanation."
+  },
+  {
+    "t": "juggling",
+    "c": "verb",
+    "f": 4,
+    "d": "Trying to manage several tasks or responsibilities at once.",
+    "s": "She spent the semester ___ coursework with a part-time job."
+  },
+  {
+    "t": "scowling",
+    "c": "verb",
+    "f": 4,
+    "d": "Frowning in an angry or bad-tempered way.",
+    "s": "He sat in the corner, ___ at anyone who came near."
+  },
+  {
+    "t": "tugging at",
+    "c": "verb",
+    "f": 4,
+    "d": "Pulling something sharply or repeatedly.",
+    "s": "The toddler kept ___ her mother's sleeve for attention."
+  },
+  {
+    "t": "loomed",
+    "c": "verb",
+    "f": 4,
+    "d": "Appeared as a large, often threatening or imminent, presence.",
+    "s": "The exam ___ over the students for the entire week."
+  },
+  {
+    "t": "commandeered",
+    "c": "verb",
+    "f": 3,
+    "d": "Took control of something for one's own use, often without permission.",
+    "s": "The manager ___ the conference room for an emergency call."
+  },
+  {
+    "t": "nudged",
+    "c": "verb",
+    "f": 5,
+    "d": "Pushed someone or something gently, often to attract attention.",
+    "s": "She ___ her colleague and pointed at the clock."
+  },
+  {
+    "t": "rummaged",
+    "c": "verb",
+    "f": 4,
+    "d": "Searched for something by moving other things around carelessly.",
+    "s": "He ___ through the drawer looking for his passport."
+  },
+  {
+    "t": "barged into",
+    "c": "verb",
+    "f": 4,
+    "d": "Entered a place rudely and abruptly.",
+    "s": "Without knocking, he ___ the office and demanded answers."
+  },
+  {
+    "t": "thudded",
+    "c": "verb",
+    "f": 3,
+    "d": "Made a dull, heavy sound, often from a fall or impact.",
+    "s": "The books ___ onto the floor when the shelf collapsed."
+  },
+  {
+    "t": "wheeled round",
+    "c": "verb",
+    "f": 2,
+    "d": "Turned around suddenly, usually in surprise or anger.",
+    "s": "He ___ when he heard his name being called."
+  },
+  {
+    "t": "hovering",
+    "c": "verb",
+    "f": 4,
+    "d": "Staying close by, often anxiously or protectively, without settling.",
+    "s": "Her parents kept ___ nearby throughout the interview."
+  },
+  {
+    "t": "closed off",
+    "c": "verb",
+    "f": 3,
+    "d": "Became emotionally distant or unwilling to share feelings.",
+    "s": "After the argument, he simply ___ and stopped answering texts."
+  },
+  {
+    "t": "incongruous",
+    "c": "adj",
+    "f": 3,
+    "d": "Strange because of being out of place or not matching the surroundings.",
+    "s": "The bright pink door looked ___ against the grey stone building."
+  },
+  {
+    "t": "languid",
+    "c": "adj",
+    "f": 2,
+    "d": "Relaxed and slow, without energy or urgency.",
+    "s": "They spent a ___ Sunday reading on the porch."
+  },
+  {
+    "t": "tenuous",
+    "c": "adj",
+    "f": 3,
+    "d": "Very weak or slight; barely holding together.",
+    "s": "Their friendship had grown ___ after years of living apart."
+  },
+  {
+    "t": "nonchalant",
+    "c": "adj",
+    "f": 4,
+    "d": "Appearing calm and unconcerned, often deliberately so.",
+    "s": "She gave a ___ shrug, as if the news meant nothing to her."
+  },
+  {
+    "t": "blasé",
+    "c": "adj",
+    "f": 3,
+    "d": "Unimpressed or indifferent, especially through overfamiliarity.",
+    "s": "After years of travelling, he'd grown almost ___ about visiting new countries."
+  },
+  {
+    "t": "contorted",
+    "c": "adj",
+    "f": 3,
+    "d": "Twisted into a strange or unnatural shape.",
+    "s": "The gymnast's body was ___ into an impossible pose."
+  },
+  {
+    "t": "sheepish",
+    "c": "adj",
+    "f": 4,
+    "d": "Embarrassed, especially about having done something wrong.",
+    "s": "He gave a ___ grin after realising he'd sent the email to the wrong person."
+  },
+  {
+    "t": "gloomy",
+    "c": "adj",
+    "f": 5,
+    "d": "Dark or dim, or feeling sad and without hope.",
+    "s": "The forecast for the weekend looks pretty ___ ."
+  },
+  {
+    "t": "conscientious",
+    "c": "adj",
+    "f": 4,
+    "d": "Careful to do things correctly and thoroughly, guided by a sense of duty.",
+    "s": "She's a ___ worker who always double-checks her figures."
+  },
+  {
+    "t": "frivolous",
+    "c": "adj",
+    "f": 4,
+    "d": "Not serious or sensible; carelessly wasteful.",
+    "s": "He was warned against making any more ___ purchases this month."
+  },
+  {
+    "t": "preoccupied",
+    "c": "adj",
+    "f": 4,
+    "d": "So deep in thought about something that one pays little attention to anything else.",
+    "s": "She seemed ___ all through dinner and barely spoke."
+  },
+  {
+    "t": "keyed up",
+    "c": "adj",
+    "f": 3,
+    "d": "Nervous or excited, especially in anticipation of something.",
+    "s": "The team was visibly ___ before the final whistle."
+  },
+  {
+    "t": "daft",
+    "c": "adj",
+    "f": 3,
+    "d": "Silly or foolish (informal, chiefly British).",
+    "s": "Don't be ___ — of course I'll help you move house."
+  },
+  {
+    "t": "bewildered",
+    "c": "adj",
+    "f": 5,
+    "d": "Confused and unsure what to do.",
+    "s": "The tourist looked ___ , staring at the map upside down."
+  },
+  {
+    "t": "sick-making",
+    "c": "adj",
+    "f": 1,
+    "d": "Causing disgust (informal, dated British usage).",
+    "s": "The way he flattered the boss in front of everyone was frankly ___ ."
+  },
+  {
+    "t": "throwaway",
+    "c": "adj",
+    "f": 3,
+    "d": "Said casually, without much thought or emphasis.",
+    "s": "It was just a ___ comment, but it stuck with her for days."
+  },
+  {
+    "t": "perceptive",
+    "c": "adj",
+    "f": 4,
+    "d": "Quick to notice or understand things; insightful.",
+    "s": "Her ___ comment revealed she'd understood the problem before anyone else."
+  }
+]

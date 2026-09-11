@@ -1,0 +1,366 @@
+[
+  {
+    "t": "by and large",
+    "c": "idiom",
+    "f": 5,
+    "d": "Generally speaking; on the whole.",
+    "s": "The new schedule works well ___, even if a few details still need fixing."
+  },
+  {
+    "t": "a complete waste of space",
+    "c": "idiom",
+    "f": 3,
+    "d": "A person perceived as useless or incompetent.",
+    "s": "He complained that the intern was ___ and never got anything done."
+  },
+  {
+    "t": "snap out of it",
+    "c": "idiom",
+    "f": 5,
+    "d": "To suddenly stop being in a negative state.",
+    "s": "She told her friend to ___ and stop moping about the exam."
+  },
+  {
+    "t": "get people's backs up",
+    "c": "idiom",
+    "f": 3,
+    "d": "To annoy or offend people.",
+    "s": "His arrogant tone tends to ___ whenever he gives instructions."
+  },
+  {
+    "t": "pick and choose",
+    "c": "idiom",
+    "f": 5,
+    "d": "To select only the best or most desirable options.",
+    "s": "With so many job offers, she could afford to ___ ."
+  },
+  {
+    "t": "nooks and crannies",
+    "c": "idiom",
+    "f": 4,
+    "d": "Every small, hidden part or corner of a place.",
+    "s": "The children explored every one of the old house's ___ ."
+  },
+  {
+    "t": "hide out",
+    "c": "idiom",
+    "f": 4,
+    "d": "To go to a place where you cannot be found.",
+    "s": "After the argument, he decided to ___ in the library for a while."
+  },
+  {
+    "t": "screaming with laughter",
+    "c": "idiom",
+    "f": 4,
+    "d": "Laughing very loudly and uncontrollably.",
+    "s": "By the end of the joke, the whole class was ___ ."
+  },
+  {
+    "t": "going full pelt",
+    "c": "idiom",
+    "f": 2,
+    "d": "Moving as fast as possible.",
+    "s": "He came round the corner ___ , late for his train."
+  },
+  {
+    "t": "dawn on someone",
+    "c": "idiom",
+    "f": 4,
+    "d": "To suddenly realize something.",
+    "s": "It didn't ___ me until much later that she had been joking."
+  },
+  {
+    "t": "keep one's cool",
+    "c": "idiom",
+    "f": 5,
+    "d": "To remain calm in a difficult or provocative situation.",
+    "s": "Even under pressure, the negotiator managed to ___ ."
+  },
+  {
+    "t": "ringside seats",
+    "c": "idiom",
+    "f": 3,
+    "d": "A position where one can see something very clearly.",
+    "s": "From the balcony we had ___ for the whole argument below."
+  },
+  {
+    "t": "no hard feelings",
+    "c": "idiom",
+    "f": 5,
+    "d": "An expression showing one isn't angry after a disagreement.",
+    "s": "We shook hands afterward and agreed there were ___ ."
+  },
+  {
+    "t": "hold something against someone",
+    "c": "idiom",
+    "f": 4,
+    "d": "To continue feeling angry at someone for a past mistake.",
+    "s": "It was an honest mistake, so please don't ___ him."
+  },
+  {
+    "t": "doing the rounds",
+    "c": "idiom",
+    "f": 4,
+    "d": "Of a story or rumor, being passed from person to person.",
+    "s": "A rumor about the merger has been ___ all week."
+  },
+  {
+    "t": "cause a stir",
+    "c": "idiom",
+    "f": 4,
+    "d": "To cause an atmosphere of excitement or controversy.",
+    "s": "Her unexpected resignation is sure to ___ in the office."
+  },
+  {
+    "t": "harder to put your finger on",
+    "c": "idiom",
+    "f": 4,
+    "d": "Difficult to identify or define exactly.",
+    "s": "Something about the painting felt wrong, but it was ___ ."
+  },
+  {
+    "t": "pull someone's leg",
+    "c": "idiom",
+    "f": 5,
+    "d": "To play a joke on someone by telling them something untrue.",
+    "s": "Relax, I was only trying to ___ — it isn't true."
+  },
+  {
+    "t": "hold her own",
+    "c": "idiom",
+    "f": 4,
+    "d": "To be as capable as others in a competitive situation.",
+    "s": "Despite being the youngest player, she managed to ___ against the veterans."
+  },
+  {
+    "t": "breathe a word",
+    "c": "idiom",
+    "f": 3,
+    "d": "To tell a secret (usually used in the negative).",
+    "s": "Promise me you won't ___ of this to anyone."
+  },
+  {
+    "t": "let slip",
+    "c": "idiom",
+    "f": 5,
+    "d": "To accidentally reveal a secret or private information.",
+    "s": "He didn't mean to ___ the surprise, but it came out at dinner."
+  },
+  {
+    "t": "put a theory to the test",
+    "c": "idiom",
+    "f": 4,
+    "d": "To perform an action to see if a specific idea is true.",
+    "s": "The students designed an experiment to ___ ."
+  },
+  {
+    "t": "lie in wait",
+    "c": "idiom",
+    "f": 3,
+    "d": "To hide and wait for someone, often to surprise them.",
+    "s": "The photographers seemed to ___ outside the theatre every evening."
+  },
+  {
+    "t": "taken off-guard",
+    "c": "idiom",
+    "f": 4,
+    "d": "Surprised by someone or something unexpected.",
+    "s": "The sudden question left her completely ___ ."
+  },
+  {
+    "t": "bring it home to someone",
+    "c": "idiom",
+    "f": 3,
+    "d": "To make someone truly understand the reality of a situation.",
+    "s": "Seeing the damage in person really did ___ how serious the storm had been."
+  },
+  {
+    "t": "wears you down",
+    "c": "verb",
+    "f": 4,
+    "d": "To gradually make someone feel tired or less determined.",
+    "s": "Answering the same complaints every day slowly ___ ."
+  },
+  {
+    "t": "excelled",
+    "c": "verb",
+    "f": 5,
+    "d": "Was exceptionally good at an activity or subject.",
+    "s": "As a student she ___ at mathematics and languages alike."
+  },
+  {
+    "t": "mimicking",
+    "c": "verb",
+    "f": 4,
+    "d": "Imitating someone's actions or speech, often to entertain or ridicule.",
+    "s": "The comedian had the whole room laughing while ___ the mayor's accent."
+  },
+  {
+    "t": "trammelled",
+    "c": "verb",
+    "f": 1,
+    "d": "Trampled or trod down.",
+    "s": "By the end of the storm the field had been thoroughly ___ into mud."
+  },
+  {
+    "t": "rile",
+    "c": "verb",
+    "f": 3,
+    "d": "To make someone annoyed or angry.",
+    "s": "He knew exactly which comments would ___ his brother."
+  },
+  {
+    "t": "pipe down",
+    "c": "verb",
+    "f": 4,
+    "d": "To stop talking or be quiet.",
+    "s": "The teacher asked the back row to ___ ."
+  },
+  {
+    "t": "heaved over",
+    "c": "verb",
+    "f": 2,
+    "d": "Lifted or moved a heavy object with great effort.",
+    "s": "Together they ___ the fallen log to clear the path."
+  },
+  {
+    "t": "barricaded",
+    "c": "verb",
+    "f": 3,
+    "d": "Blocked a door or entrance to prevent people entering or leaving.",
+    "s": "The protesters ___ the entrance with chairs and tables."
+  },
+  {
+    "t": "blossomed",
+    "c": "verb",
+    "f": 5,
+    "d": "Developed or flourished into something beautiful or successful.",
+    "s": "Under the new coach, the young player quickly ___ ."
+  },
+  {
+    "t": "eavesdrop",
+    "c": "verb",
+    "f": 4,
+    "d": "To listen secretly to a private conversation.",
+    "s": "She suspected the neighbours liked to ___ through the thin walls."
+  },
+  {
+    "t": "sifting through",
+    "c": "verb",
+    "f": 4,
+    "d": "Examining a large amount of information or objects thoroughly.",
+    "s": "He spent the afternoon ___ old letters in the attic."
+  },
+  {
+    "t": "loitered",
+    "c": "verb",
+    "f": 3,
+    "d": "Stood or waited around idly without an apparent purpose.",
+    "s": "A few teenagers ___ near the entrance after the shop had closed."
+  },
+  {
+    "t": "sauntered",
+    "c": "verb",
+    "f": 3,
+    "d": "Walked in a slow, relaxed, and confident manner.",
+    "s": "He ___ into the meeting ten minutes late, entirely unbothered."
+  },
+  {
+    "t": "rummaging",
+    "c": "verb",
+    "f": 4,
+    "d": "Searching unsystematically and untidily through a mass or receptacle.",
+    "s": "She was ___ through her bag, looking for the keys."
+  },
+  {
+    "t": "shudder",
+    "c": "verb",
+    "f": 5,
+    "d": "To shake uncontrollably from fear, cold, or disgust.",
+    "s": "Just thinking about the exam made him ___ ."
+  },
+  {
+    "t": "agitated",
+    "c": "adj",
+    "f": 5,
+    "d": "Feeling or appearing troubled or nervous.",
+    "s": "He grew increasingly ___ as the deadline approached."
+  },
+  {
+    "t": "resentful",
+    "c": "adj",
+    "f": 5,
+    "d": "Feeling bitterness or indignation at having been treated unfairly.",
+    "s": "She felt ___ after being passed over for the promotion."
+  },
+  {
+    "t": "incidentally",
+    "c": "adj",
+    "f": 5,
+    "d": "Used when adding a further related point; by the way.",
+    "s": "___ , the report you asked for is already on your desk."
+  },
+  {
+    "t": "languorous",
+    "c": "adj",
+    "f": 2,
+    "d": "Characterized by tiredness or inactivity, especially of a pleasurable kind.",
+    "s": "They spent a ___ afternoon by the pool, barely moving."
+  },
+  {
+    "t": "crestfallen",
+    "c": "adj",
+    "f": 3,
+    "d": "Sad and disappointed.",
+    "s": "He looked ___ after hearing the match had been cancelled."
+  },
+  {
+    "t": "reproachful",
+    "c": "adj",
+    "f": 3,
+    "d": "Expressing disapproval or disappointment.",
+    "s": "She gave him a ___ look when he arrived late again."
+  },
+  {
+    "t": "provisional",
+    "c": "adj",
+    "f": 4,
+    "d": "Arranged or existing for the present, possibly to be changed later.",
+    "s": "They reached a ___ agreement, pending final approval."
+  },
+  {
+    "t": "clammy",
+    "c": "adj",
+    "f": 4,
+    "d": "Unpleasantly damp and sticky or slimy to the touch.",
+    "s": "His palms went ___ before the interview began."
+  },
+  {
+    "t": "snooty",
+    "c": "adj",
+    "f": 4,
+    "d": "Showing disapproval or contempt toward others; snobbish.",
+    "s": "The waiter's ___ manner put off several customers."
+  },
+  {
+    "t": "sophisticated",
+    "c": "adj",
+    "f": 5,
+    "d": "Having a great deal of worldly experience and knowledge of fashion and culture.",
+    "s": "Her ___ taste in wine impressed the other guests."
+  },
+  {
+    "t": "meandering",
+    "c": "adj",
+    "f": 4,
+    "d": "Of a conversation, following a winding course; lacking a clear direction.",
+    "s": "The interview turned into a ___ chat about nothing in particular."
+  },
+  {
+    "t": "relentless",
+    "c": "adj",
+    "f": 5,
+    "d": "Oppressively constant; incessant.",
+    "s": "The ___ rain continued for three days without a break."
+  }
+]

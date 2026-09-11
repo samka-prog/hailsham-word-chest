@@ -1,0 +1,366 @@
+[
+  {
+    "t": "larking about",
+    "c": "idiom",
+    "f": 3,
+    "d": "Behaving in a playful or mischievous way.",
+    "s": "The kids were ___ in the garden instead of doing their homework."
+  },
+  {
+    "t": "cropped up",
+    "c": "idiom",
+    "f": 4,
+    "d": "Occurred or appeared unexpectedly.",
+    "s": "A new problem ___ just as we thought the project was finished."
+  },
+  {
+    "t": "came to a head",
+    "c": "idiom",
+    "f": 3,
+    "d": "Reached a point of crisis or decision.",
+    "s": "Tensions between the two departments finally ___ during the meeting."
+  },
+  {
+    "t": "beneath contempt",
+    "c": "idiom",
+    "f": 2,
+    "d": "Considered so low or worthless that it doesn't even deserve scorn.",
+    "s": "He called the scheme ___ and refused to discuss it further."
+  },
+  {
+    "t": "out of the blue",
+    "c": "idiom",
+    "f": 5,
+    "d": "Completely unexpectedly.",
+    "s": "She called me ___ after years of silence."
+  },
+  {
+    "t": "shot daggers",
+    "c": "idiom",
+    "f": 2,
+    "d": "Looked at someone very angrily.",
+    "s": "She ___ at him across the room after his comment."
+  },
+  {
+    "t": "dodgy territory",
+    "c": "idiom",
+    "f": 3,
+    "d": "A subject or area that is risky, uncertain, or potentially troublesome.",
+    "s": "Bringing up salaries at the dinner table felt like ___ ."
+  },
+  {
+    "t": "bumper crop",
+    "c": "idiom",
+    "f": 2,
+    "d": "An unusually large harvest or amount of something.",
+    "s": "Farmers reported a ___ of apples this autumn."
+  },
+  {
+    "t": "in hot water",
+    "c": "idiom",
+    "f": 4,
+    "d": "In trouble or facing criticism.",
+    "s": "He landed ___ after missing the deadline twice."
+  },
+  {
+    "t": "out of bounds",
+    "c": "idiom",
+    "f": 4,
+    "d": "Outside the permitted limits or areas.",
+    "s": "That part of the forest is ___ to visitors."
+  },
+  {
+    "t": "keep at bay",
+    "c": "idiom",
+    "f": 4,
+    "d": "To prevent something problematic from approaching or having an effect.",
+    "s": "Regular exercise helps ___ stress."
+  },
+  {
+    "t": "on the verge of tears",
+    "c": "idiom",
+    "f": 4,
+    "d": "Very close to crying.",
+    "s": "She was ___ by the end of the speech."
+  },
+  {
+    "t": "in a curious quandary",
+    "c": "idiom",
+    "f": 2,
+    "d": "In a state of perplexity over what to do in a difficult situation.",
+    "s": "He found himself ___ , unsure whether to accept the offer."
+  },
+  {
+    "t": "haziest notions",
+    "c": "idiom",
+    "f": 2,
+    "d": "Very vague or unclear ideas about something.",
+    "s": "I only have the ___ of what actually happened that night."
+  },
+  {
+    "t": "grind to a halt",
+    "c": "idiom",
+    "f": 4,
+    "d": "To slow down and finally stop completely.",
+    "s": "Traffic began to ___ as the storm rolled in."
+  },
+  {
+    "t": "lose one's marbles",
+    "c": "idiom",
+    "f": 3,
+    "d": "(Informal) To lose one's mind or become irrational.",
+    "s": "He must have ___ if he thinks that plan will work."
+  },
+  {
+    "t": "nuts and bolts",
+    "c": "idiom",
+    "f": 4,
+    "d": "The basic practical details of a subject or activity.",
+    "s": "Let's skip the theory and get to the ___ of how it actually works."
+  },
+  {
+    "t": "go down well",
+    "c": "idiom",
+    "f": 4,
+    "d": "To be received with approval or satisfaction by a group.",
+    "s": "The new policy didn't ___ with the staff."
+  },
+  {
+    "t": "worked up",
+    "c": "idiom",
+    "f": 4,
+    "d": "Becoming very upset, angry, or excited.",
+    "s": "There's no need to get so ___ about a small delay."
+  },
+  {
+    "t": "back down",
+    "c": "idiom",
+    "f": 4,
+    "d": "To withdraw a claim or a position in a fight or argument.",
+    "s": "He refused to ___ even when everyone disagreed with him."
+  },
+  {
+    "t": "beyond the bounds",
+    "c": "idiom",
+    "f": 3,
+    "d": "Outside the limits of what is acceptable or possible.",
+    "s": "His behaviour at the party was ___ of what we'd tolerate."
+  },
+  {
+    "t": "dressing-down",
+    "c": "idiom",
+    "f": 3,
+    "d": "A severe formal reprimand.",
+    "s": "The manager gave him a real ___ for the mistake."
+  },
+  {
+    "t": "cave in",
+    "c": "idiom",
+    "f": 4,
+    "d": "To stop resisting and finally yield to pressure.",
+    "s": "After hours of arguing, she finally ___ and agreed."
+  },
+  {
+    "t": "on top of everything",
+    "c": "idiom",
+    "f": 4,
+    "d": "Fully in control and aware of all the details of a situation.",
+    "s": "Despite the chaos, she managed to stay ___ ."
+  },
+  {
+    "t": "thwart",
+    "c": "verb",
+    "f": 3,
+    "d": "To prevent someone from accomplishing something.",
+    "s": "Bad weather ___ their plans for the picnic."
+  },
+  {
+    "t": "coerce",
+    "c": "verb",
+    "f": 3,
+    "d": "To persuade or force someone to do something using pressure or threats.",
+    "s": "No one should be ___ into signing a contract they don't understand."
+  },
+  {
+    "t": "redeem yourself",
+    "c": "verb",
+    "f": 3,
+    "d": "To do something that compensates for poor past behavior.",
+    "s": "He hoped the apology would help him ___ after the argument."
+  },
+  {
+    "t": "reel off",
+    "c": "verb",
+    "f": 3,
+    "d": "To say or repeat something quickly and easily.",
+    "s": "She could ___ the capital cities of Europe without hesitation."
+  },
+  {
+    "t": "loom",
+    "c": "verb",
+    "f": 4,
+    "d": "To appear as a shadowy, often large or threatening form.",
+    "s": "Exams were starting to ___ over the students."
+  },
+  {
+    "t": "pine",
+    "c": "verb",
+    "f": 3,
+    "d": "To miss someone or something intensely.",
+    "s": "He continued to ___ for his hometown long after moving abroad."
+  },
+  {
+    "t": "allude",
+    "c": "verb",
+    "f": 4,
+    "d": "To suggest or call attention to something indirectly.",
+    "s": "She seemed to ___ to a problem without saying exactly what it was."
+  },
+  {
+    "t": "engrossed",
+    "c": "verb",
+    "f": 4,
+    "d": "Having all one's attention absorbed by something.",
+    "s": "He was so ___ in the book that he missed his stop."
+  },
+  {
+    "t": "brood over",
+    "c": "verb",
+    "f": 3,
+    "d": "To think deeply and unhappily about something that worries you.",
+    "s": "She tends to ___ small mistakes for days."
+  },
+  {
+    "t": "intervene",
+    "c": "verb",
+    "f": 4,
+    "d": "To come between so as to prevent or alter a course of events.",
+    "s": "A teacher had to ___ before the argument got out of hand."
+  },
+  {
+    "t": "jut",
+    "c": "verb",
+    "f": 2,
+    "d": "To extend out, over, or beyond the main body of something.",
+    "s": "A rocky ledge seemed to ___ out over the cliff edge."
+  },
+  {
+    "t": "waylay",
+    "c": "verb",
+    "f": 2,
+    "d": "To stop or interrupt someone, typically to detain or trouble them.",
+    "s": "A journalist tried to ___ the minister outside the building."
+  },
+  {
+    "t": "confide",
+    "c": "verb",
+    "f": 4,
+    "d": "To tell someone a secret while trusting them not to repeat it.",
+    "s": "She decided to ___ in her sister about the job offer."
+  },
+  {
+    "t": "ebb away",
+    "c": "verb",
+    "f": 3,
+    "d": "To gradually lessen or reduce.",
+    "s": "His confidence seemed to ___ as the interview went on."
+  },
+  {
+    "t": "acquisitive",
+    "c": "adj",
+    "f": 2,
+    "d": "Excessively interested in acquiring money or material things.",
+    "s": "Critics called the company's expansion strategy overly ___ ."
+  },
+  {
+    "t": "ambivalent",
+    "c": "adj",
+    "f": 4,
+    "d": "Having mixed feelings or contradictory ideas about something.",
+    "s": "She felt ___ about accepting the promotion."
+  },
+  {
+    "t": "intimidating",
+    "c": "adj",
+    "f": 5,
+    "d": "Having a frightening or overawing effect.",
+    "s": "The interview panel looked rather ___ ."
+  },
+  {
+    "t": "unfathomable",
+    "c": "adj",
+    "f": 3,
+    "d": "Incapable of being fully explored or understood.",
+    "s": "His reasons for leaving remained ___ to everyone."
+  },
+  {
+    "t": "potty",
+    "c": "adj",
+    "f": 2,
+    "d": "(British informal) Mad or crazy.",
+    "s": "You must be ___ to go hiking in this weather."
+  },
+  {
+    "t": "furtively",
+    "c": "adj",
+    "f": 3,
+    "d": "In a way that avoids notice; secretively.",
+    "s": "He glanced ___ at his phone during the meeting."
+  },
+  {
+    "t": "precarious",
+    "c": "adj",
+    "f": 4,
+    "d": "Dangerously likely to fall or collapse; unstable.",
+    "s": "The company was left in a ___ financial position."
+  },
+  {
+    "t": "innocuous",
+    "c": "adj",
+    "f": 4,
+    "d": "Not harmful or offensive.",
+    "s": "It seemed like an ___ comment, but it upset her deeply."
+  },
+  {
+    "t": "baffling",
+    "c": "adj",
+    "f": 4,
+    "d": "Impossible to understand; perplexing.",
+    "s": "The results of the experiment were completely ___ ."
+  },
+  {
+    "t": "luscious",
+    "c": "adj",
+    "f": 3,
+    "d": "Having a pleasingly rich quality; highly appealing.",
+    "s": "The dessert menu described a ___ chocolate torte."
+  },
+  {
+    "t": "swarthy",
+    "c": "adj",
+    "f": 2,
+    "d": "Dark-skinned or dark-complexioned.",
+    "s": "The sailor had a ___ , weathered face from years at sea."
+  },
+  {
+    "t": "complacent",
+    "c": "adj",
+    "f": 4,
+    "d": "Showing smug or uncritical satisfaction with oneself.",
+    "s": "The team grew ___ after their early success and lost focus."
+  },
+  {
+    "t": "distraught",
+    "c": "adj",
+    "f": 4,
+    "d": "Deeply upset and agitated.",
+    "s": "She was ___ after hearing the news."
+  },
+  {
+    "t": "sombre",
+    "c": "adj",
+    "f": 4,
+    "d": "Oppressively solemn or grave in mood.",
+    "s": "A ___ mood settled over the room after the announcement."
+  }
+]
