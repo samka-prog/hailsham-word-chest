@@ -29,6 +29,8 @@
       <option value="idiom">Idioms &amp; expressions</option>
       <option value="verb">Verbs &amp; phrasal verbs</option>
       <option value="adj">Adjectives &amp; adverbs</option>
+      <option value="noun">Nouns</option>
+      <option value="adverb">Adverbs</option>
     </select>
     <select id="sort-order">
       <option value="freq">Most useful first</option>
@@ -48,10 +50,11 @@
       </div>
     </div>
     <div class="controls" id="flash-controls">
-      <button class="icon-btn" id="prev-btn" title="Previous">‹</button>
+      <button class="icon-btn" id="prev-btn" title="Previous" aria-label="Previous word">‹</button>
       <button class="judge-btn no" id="dontknow-btn">Don't know it</button>
+      <button class="icon-btn speak-btn" id="speak-btn" title="Pronounce word" aria-label="Pronounce current word">🔊</button>
       <button class="judge-btn yes" id="knowit-btn">Know it</button>
-      <button class="icon-btn" id="next-btn" title="Next">›</button>
+      <button class="icon-btn" id="next-btn" title="Next" aria-label="Next word">›</button>
     </div>
     <div class="stat-row">
       <span>Known: <b id="known-count">0</b></span>
@@ -70,6 +73,7 @@
       <div class="cloze-actions">
         <button class="primary-btn" id="check-btn">Check</button>
         <button class="ghost-btn" id="reveal-btn">Reveal</button>
+        <button class="ghost-btn" id="cloze-speak-btn" aria-label="Hear the answer">Pronounce</button>
         <button class="ghost-btn" id="cloze-next-btn">Next →</button>
       </div>
     </div>

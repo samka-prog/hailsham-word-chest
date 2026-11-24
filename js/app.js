@@ -18,7 +18,13 @@ let known = new Set();
 let unknown = new Set();
 let clozeCorrect = 0, clozeAttempted = 0, clozeAnswered = false;
 
-const catLabel = { idiom: "Idiom", verb: "Verb", adj: "Adjective" };
+const catLabel = {
+  idiom: "Idiom",
+  verb: "Verb",
+  adj: "Adjective",
+  noun: "Noun",
+  adverb: "Adverb"
+};
 
 function shuffle(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
@@ -203,6 +209,9 @@ function wireStaticControls() {
   document.getElementById('shuffle-btn').addEventListener('click', () => {
     shuffle(filtered); idx = 0; renderFlash();
   });
+  document.getElementById('speak-btn').addEventListener('click', pronounceCurrentWord);
+  document.getElementById('cloze-speak-btn').addEventListener('click', pronounceCurrentWord);
+
   document.getElementById('knowit-btn').addEventListener('click', () => {
     known.add(filtered[idx]); unknown.delete(filtered[idx]);
     idx = (idx + 1) % filtered.length; renderFlash();
@@ -241,6 +250,25 @@ function wireStaticControls() {
     clozeMode.style.display = 'flex'; flashMode.style.display = 'none';
     idx = 0; renderCloze();
   });
+}
+
+function speakWord(text) {
+  if (!('speechSynthesis' in window)) {
+    console.warn('Speech synthesis is not supported by this browser.');
+    return;
+  }
+
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-GB';
+  utterance.rate = 0.9;
+  utterance.pitch = 1;
+  window.speechSynthesis.speak(utterance);
+}
+
+function pronounceCurrentWord() {
+  if (filtered.length === 0) return;
+  speakWord(WORDS[filtered[idx]].t);
 }
 
 init();

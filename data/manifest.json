@@ -16,5 +16,17 @@
     "label": "Chapters 8–11",
     "subtitle": "B2–C2 words & idioms from Chapters Eight through Eleven",
     "file": "data/chapters-8-11.json"
+  },
+  {
+    "id": "ch1216",
+    "label": "Chapters 12–16",
+    "subtitle": "B2–C2 words & idioms from Chapters Twelve through Sixteen",
+    "file": "data/chapters-12-16.json"
+  },
+  {
+    "id": "ch1720",
+    "label": "Chapters 17–20",
+    "subtitle": "B2–C2 words & idioms from Chapters Seventeen through Twenty",
+    "file": "data/chapters-17-20.json"
   }
 ]
