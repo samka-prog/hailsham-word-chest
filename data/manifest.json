@@ -28,5 +28,11 @@
     "label": "Chapters 17–20",
     "subtitle": "B2–C2 words & idioms from Chapters Seventeen through Twenty",
     "file": "data/chapters-17-20.json"
+  },
+  {
+    "id": "ch2123",
+    "label": "Chapters 21–23",
+    "subtitle": "C1–C2 words, idioms and phrasal verbs from Chapters Twenty-One through Twenty-Three",
+    "file": "data/chapters-21-23.json"
   }
 ]

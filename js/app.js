@@ -23,7 +23,8 @@ const catLabel = {
   verb: "Verb",
   adj: "Adjective",
   noun: "Noun",
-  adverb: "Adverb"
+  adverb: "Adverb",
+  phrasal: "Phrasal verb"
 };
 
 function shuffle(arr) {
